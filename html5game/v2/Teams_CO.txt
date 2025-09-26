@@ -66,7 +66,7 @@ uid	name	tla	conference	division	active	starting	colhelmet	colshirt	colpants	col
 96	W. Point	W.P	7	0	1	0	$ffd700	$666666	$ffd700	$d4bf91	6	5	0	0	0	0	40	25	0	50	2	Military	NY	y:1:0000
 97	Provo	PRV	4	0	1	0	$ffffff	$800080	$ffffff	$002e5d	4	6	0	0	0	0	30	35	0	135	2	Religious	UT	y:1:0000
 98	N.M. S.	NMS	6	0	1	0	$993366	$993366	$993366	$ffffff	6	4	0	0	0	0	10	1	0	120	0	0	NM	y:1:0000
-99	Colin Whitaker	S.B	7	0	1	0	$ffd799	$000099	$ffd799	$ae9142	7	7	0	0	0	0	38	35	0	-1	2	Religious	IN	y:1:1010
+99	South Bend	S.B	7	0	1	0	$ffd799	$000099	$ffd799	$ae9142	7	7	0	0	0	0	38	35	0	-1	2	Religious	IN	y:1:1010
 100	Connecticut	CT.	7	0	1	0	$ffffff	$2f54a5	$2f54a5	$ffffff	5	2	0	0	0	0	40	30	0	-1	0	0	CT	y:1:0000
 101	Mass.	MA.	7	0	1	0	$ff0000	$ff0000	$ff0000	$ffffff	3	1	0	0	0	0	40	30	0	-1	0	0	MA	y:1:0000
 102	Akron	AKR	8	0	1	0	$0000d0	$0000d0	$0000d0	$a89968	2	2	0	0	0	0	40	45	0	108	0	0	OH	y:1:0000
